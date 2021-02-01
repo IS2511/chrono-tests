@@ -8,7 +8,7 @@ Job applications am I right guys?
 ```shell
 git clone https://github.com/IS2511/chrono-tests.git
 cd chrono-tests
-mkdir build
+mkdir build && cd build
 cmake ..
 make
 ```
